@@ -224,6 +224,7 @@ export default {
             "celeste",
             "conway",
             "chip-8",
+            "chipexa",
             "minesweeper",
           ],
         },
